@@ -1,0 +1,87 @@
+R:\CafeShop\CafeShop\bin\Debug\CafeShop.exe.config
+R:\CafeShop\CafeShop\bin\Debug\CafeShop.exe
+R:\CafeShop\CafeShop\bin\Debug\CafeShop.pdb
+R:\CafeShop\CafeShop\bin\Debug\Guna.UI2.dll
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.AssemblyReference.cache
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.SuggestedBindingRedirects.cache
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.UserForm.resources
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.Properties.Resources.resources
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.GenerateResource.cache
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.CoreCompileInputs.cache
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.CopyComplete
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.exe
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.pdb
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.AddItemForm.resources
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.AddMemberForm.resources
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.CreateOrderForm.resources
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.FormMain.resources
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.MemberForm.resources
+R:\CafeShop\CafeShop\obj\Debug\CafeShop.StaffForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\CafeShop.exe.config
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\CafeShop.exe
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\CafeShop.pdb
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\Guna.UI2.dll
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.AssemblyReference.cache
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.SuggestedBindingRedirects.cache
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.AddItemForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.AddMemberForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Controls.MemberItemControl.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.CreateOrderForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.FormMain.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.MemberForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.UserForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Properties.Resources.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.GenerateResource.cache
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.CoreCompileInputs.cache
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.csproj.CopyComplete
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.exe
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.pdb
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Controls.EmployeeItemControl.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.EmployeeListForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.FormAddEmployee.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.LoginForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Controls.OrderListControl.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.OrderListForm.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.FormReportDailyRevenue.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\EntityFramework.dll
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\EntityFramework.xml
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Migrations.Init.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Controls.MonAnControl.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Controls.OrderDetailControl.resources
+D:\WorkProject\Y2023\Hoàng Huân Zalo\CafeShop\CafeShop\obj\Debug\CafeShop.Migrations.UpdateQuyen.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\CafeShop.exe.config
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\CafeShop.exe
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\CafeShop.pdb
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\EntityFramework.dll
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\Guna.UI2.dll
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\EntityFramework.xml
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.csproj.AssemblyReference.cache
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.csproj.SuggestedBindingRedirects.cache
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.AddItemForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.AddMemberForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Controls.EmployeeItemControl.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Controls.MemberItemControl.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Controls.MonAnControl.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Controls.OrderDetailControl.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Controls.OrderListControl.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.CreateOrderForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.EmployeeListForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.FormAddEmployee.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.FormMain.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.FormReportDailyRevenue.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.LoginForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.MemberForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Migrations.Init.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Migrations.UpdateQuyen.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.OrderListForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.UserForm.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.Properties.Resources.resources
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.csproj.GenerateResource.cache
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.csproj.CoreCompileInputs.cache
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.csproj.CopyComplete
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.exe
+E:\DotNet - C#\CafeShop_Update_20230423\CafeShop\obj\Debug\CafeShop.pdb
